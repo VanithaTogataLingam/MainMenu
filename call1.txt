@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head>
+        <title>
+            ContactMe
+        </title>
+    </head>
+    <body>
+        <img scr="call.png" alt=" "/>Contact me on <b>+1-205-447-9661</b><br>
+        Email me on <b>vtogata6@uab.edu</b><br>
+        <a href="https://github.com/VanithaTogataLingam/adv-web/settings/access" target="_blank">GitHub</a><br>
+        <a href="https://www.facebook.com/vanitha.togatalingam" target="_blank">Facebook</a><br>
+    </body>
+</html>
